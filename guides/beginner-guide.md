@@ -114,6 +114,7 @@ There's a hierarchy: team settings (shared) vs. personal settings (your override
 
 ## What to Explore Next
 
+- [Interactive Guide](index.html) — all 22 concepts on one page with navigation, search, and progressive levels
 - [The Weather Workflow](../orchestration-workflow/orchestration-workflow.md) — the full technical walkthrough of the example above
 - [Tips and Tricks](../README.md#-tips-and-tricks) — practical advice from Claude Code's creators
 - [Reports](../README.md#reports) — deep dives on specific topics
@@ -121,4 +122,4 @@ There's a hierarchy: team settings (shared) vs. personal settings (your override
 
 ---
 
-<p align="center"><a href="../START-HERE.md">Start Here</a> · <a href="glossary.md">Glossary</a> · <a href="../README.md">README</a></p>
+<p align="center"><a href="../START-HERE.md">Start Here</a> · <a href="index.html">Interactive Guide</a> · <a href="glossary.md">Glossary</a> · <a href="../README.md">README</a></p>
