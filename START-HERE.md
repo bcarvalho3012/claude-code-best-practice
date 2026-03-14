@@ -21,7 +21,7 @@ This repo is a collection of tips, patterns, and working examples for getting th
 
 ## Where should I go?
 
-**If you're brand new** — read the [Beginner's Guide](guides/beginner-guide.md). It explains every major concept in plain English, with no jargon.
+**If you're brand new** — read the [Beginner's Guide](guides/beginner-guide.md) or try the [Interactive Guide](guides/index.html) — all 22 concepts in one page with navigation, search, and progressive levels.
 
 **If you know the basics** — browse the [CONCEPTS table in the README](README.md#-concepts) and try the [weather example](orchestration-workflow/orchestration-workflow.md).
 
@@ -59,4 +59,4 @@ Head to the [Beginner's Guide](guides/beginner-guide.md) for a full walkthrough,
 
 ---
 
-<p align="center"><a href="guides/beginner-guide.md">Beginner's Guide</a> · <a href="guides/glossary.md">Glossary</a> · <a href="README.md">README</a></p>
+<p align="center"><a href="guides/beginner-guide.md">Beginner's Guide</a> · <a href="guides/index.html">Interactive Guide</a> · <a href="guides/glossary.md">Glossary</a> · <a href="README.md">README</a></p>
