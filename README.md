@@ -7,6 +7,8 @@ practice makes claude perfect
 [![Implemented](!/tags/implemented.svg)](implementation/) *Click on this badge to show implementation in this repo*<br>
 [![Orchestration Workflow](!/tags/orchestration-workflow.svg)](orchestration-workflow/orchestration-workflow.md) *Click on this badge to see the Command → Agent → Skill orchestration workflow*
 
+> **New to Claude Code?** Start with the [Beginner's Guide](START-HERE.md) — a plain-English introduction to everything in this repository.
+
 <p align="center">
   <img src="!/claude-jumping.svg" alt="Claude Code mascot jumping" width="120" height="100">
 </p>
